@@ -1,0 +1,250 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "hey",
+                "hello",
+                "whats Up?",
+                "how is it going",
+                "hi",
+                "good day",
+                "phoenix",
+                "phoenix",
+                "hello phoenix",
+                "hi phoenix"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "create",
+            "patterns": [
+                "please create a new note",
+                "New Note",
+                "Create a note",
+                "I want to create a note"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "show",
+            "patterns": [
+                "Show my to dos",
+                "My to dos",
+                "I want to know my to dos",
+                "What is on my to dos",
+                "show to do"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "add",
+            "patterns": [
+                "add to do"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "google",
+            "patterns": [
+                "open google",
+                "hey google",
+                "google"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "gmail",
+            "patterns": [
+                "open gmail",
+                "gmail",
+                "gmail"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "youtube",
+            "patterns": [
+                "open youtube",
+                "youtube",
+                "youtube",
+                "youtube open"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "time",
+            "patterns": [
+                "phoenix what's the time now",
+                "phoenix tell me the time",
+                "time",
+                "phoenix can you please tell me the time",
+                "phoenix what is the time on clock",
+                "time please",
+                "say the time now"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "wiki",
+            "patterns": [
+                "wikipedia",
+                "wikipedia",
+                "wikipedia"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "note",
+            "patterns": [
+                "make a note",
+                "take note",
+                "take notes",
+                "remeber this"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "search",
+            "patterns": [
+                "search",
+                "search for",
+                "I want to get information",
+                "About",
+                "Tell me about",
+                "Give me information",
+                "search"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "teams",
+            "patterns": [
+                "teams",
+                "phoenix open teams",
+                "teams open phonix",
+                "microsoft teams open pheonix",
+                "phoenix open microsoft teams"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "search_app",
+            "patterns": [
+                "search app",
+                "Search for the app",
+                "Search the app in the pc"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "whatsapp",
+            "patterns": [
+                "open whatsapp",
+                "phoenix open whatsapp",
+                "whatsapp open phonix",
+                "whatsapp open pheonix",
+                "phoenix open whatsapp"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "birthday",
+            "patterns": [
+                "birthday"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "exit",
+            "patterns": [
+                "stop",
+                "bye",
+                "good bye",
+                "exit",
+                "quit"
+            ],
+            "responses": [
+                ""
+            ],
+            "context_set": [
+                ""
+            ]
+        }
+    ]
+}
